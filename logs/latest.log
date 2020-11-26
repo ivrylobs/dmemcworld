@@ -1,0 +1,504 @@
+[10:10:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:10:02] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:10:06] [Worker-Main-1/INFO]: Loaded 7 recipes
+[10:10:08] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[10:10:08] [Server thread/INFO]: Loading properties
+[10:10:08] [Server thread/INFO]: This server is running Paper version git-Paper-291 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[10:10:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:10:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:10:08] [Server thread/INFO]: Debug logging is disabled
+[10:10:08] [Server thread/INFO]: Default game type: SURVIVAL
+[10:10:08] [Server thread/INFO]: Generating keypair
+[10:10:08] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:41307
+[10:10:09] [Server thread/INFO]: Using epoll channel type
+[10:10:09] [Server thread/INFO]: [Timber] Loading Timber v1.0.9
+[10:10:09] [Server thread/INFO]: [Assassin] Loading Assassin v1.2.1
+[10:10:09] [Server thread/INFO]: [Carz] Loading Carz v7.0
+[10:10:09] [Server thread/INFO]: [SimpleHealthbars2] Loading SimpleHealthbars2 v0.2.0
+[10:10:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:10:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:10:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:10:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:10:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:10:09] [Server thread/INFO]: Preparing level "world"
+[10:10:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:10:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:10:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[10:10:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:10:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:10:09] [Server thread/INFO]: Max TNT Explosions: 100
+[10:10:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:10:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:10:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:10:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:10:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:10:09] [Server thread/INFO]: View Distance: 10
+[10:10:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:10:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:10:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:10:09] [Server thread/INFO]: Mob Spawn Range: 8
+[10:10:09] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:10:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:10:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[10:10:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:10:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:10:09] [Server thread/INFO]: Max TNT Explosions: 100
+[10:10:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:10:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:10:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:10:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:10:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:10:09] [Server thread/INFO]: View Distance: 10
+[10:10:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:10:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:10:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:10:09] [Server thread/INFO]: Mob Spawn Range: 8
+[10:10:09] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:10:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:10:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:10:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[10:10:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:10:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:10:09] [Server thread/INFO]: Max TNT Explosions: 100
+[10:10:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:10:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:10:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:10:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:10:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:10:09] [Server thread/INFO]: View Distance: 10
+[10:10:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:10:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:10:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:10:09] [Server thread/INFO]: Mob Spawn Range: 8
+[10:10:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:10:10] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[10:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[10:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[10:10:11] [Server thread/INFO]: Preparing spawn area: 2%
+[10:10:11] [Server thread/INFO]: Preparing spawn area: 71%
+[10:10:11] [Server thread/INFO]: Time elapsed: 2051 ms
+[10:10:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:10:11] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[10:10:11] [Server thread/INFO]: Preparing spawn area: 0%
+[10:10:12] [Server thread/INFO]: Time elapsed: 284 ms
+[10:10:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:10:12] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[10:10:12] [Server thread/INFO]: Time elapsed: 272 ms
+[10:10:12] [Server thread/INFO]: [Timber] Enabling Timber v1.0.9
+[10:10:12] [Server thread/INFO]: Timber Log Materials: [OAK_LOG, BIRCH_LOG, ACACIA_LOG, JUNGLE_LOG, SPRUCE_LOG, DARK_OAK_LOG]
+[10:10:12] [Server thread/INFO]: Timber Axe Materials: [STONE_AXE, DIAMOND_AXE, IRON_AXE, GOLDEN_AXE, NETHERITE_AXE, WOODEN_AXE]
+[10:10:12] [Server thread/INFO]: [Assassin] Enabling Assassin v1.2.1
+[10:10:12] [Server thread/INFO]: Assassin plugin started.
+[10:10:12] [Server thread/INFO]: [Carz] Enabling Carz v7.0
+[10:10:12] [Server thread/INFO]: [Carz] Enabled Carz v7.0
+[10:10:12] [Thread-11/INFO]: [Carz] Checking for update...
+[10:10:13] [Thread-11/INFO]: [Carz] ==== Carz ====
+[10:10:13] [Thread-11/INFO]: [Carz] An update is available: v7.2
+[10:10:13] [Thread-11/INFO]: [Carz] ==============
+[10:10:13] [Server thread/INFO]: [SimpleHealthbars2] Enabling SimpleHealthbars2 v0.2.0
+[10:10:13] [Server thread/INFO]: [SimpleHealthbars2] SimpleHealthbars2 version 0.2.0 enabled!
+[10:10:13] [Server thread/INFO]: Starting GS4 status listener
+[10:10:13] [Server thread/INFO]: Thread Query Listener started
+[10:10:13] [Server thread/INFO]: Running delayed init tasks
+[10:10:13] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[10:10:13] [Server thread/INFO]: Done (5.006s)! For help, type "help"
+[10:10:13] [Server thread/INFO]: Timings Reset
+[10:11:31] [User Authenticator #1/INFO]: UUID of player My_Mee is c8d3f683-0c45-37f8-ab8f-d3e0dbb280d9
+[10:11:32] [Server thread/INFO]: My_Mee joined the game
+[10:11:33] [Server thread/INFO]: My_Mee[/223.206.233.69:7928] logged in with entity id 434 at ([world]1423.1874826109693, 70.5, -511.2091412461635)
+[10:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[10:11:50] [Server thread/INFO]: My_Mee lost connection: Disconnected
+[10:11:50] [Server thread/INFO]: My_Mee left the game
+[10:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8938ms or 178 ticks behind
+[10:12:51] [User Authenticator #2/INFO]: UUID of player My_Mee is c8d3f683-0c45-37f8-ab8f-d3e0dbb280d9
+[10:12:52] [Server thread/INFO]: My_Mee joined the game
+[10:12:52] [Server thread/INFO]: My_Mee[/223.206.233.69:7974] logged in with entity id 451 at ([world]1423.8453829637535, 70.0, -511.1206024157358)
+[10:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[10:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22972ms or 459 ticks behind
+[10:14:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12564ms or 251 ticks behind
+[10:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[10:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10582ms or 211 ticks behind
+[10:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5102ms or 102 ticks behind
+[10:27:54] [Server thread/INFO]: There are 1 of a max of 20 players online: My_Mee
+[10:29:17] [Server thread/INFO]: My_Mee has made the advancement [Diamonds!]
+[10:30:03] [Server thread/INFO]: Automatic saving is now disabled
+[10:30:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[10:30:07] [Server thread/INFO]: Saved the game
+[10:30:17] [Server thread/INFO]: Automatic saving is now enabled
+[10:32:24] [User Authenticator #3/INFO]: UUID of player P0LEM4N is e816f529-de37-3b48-b909-f98e7b30600d
+[10:32:24] [Server thread/INFO]: P0LEM4N joined the game
+[10:32:24] [Server thread/INFO]: P0LEM4N[/110.170.48.137:57362] logged in with entity id 3807 at ([world]1347.7683018960158, 63.0, -596.3783494126792)
+[10:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[10:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
+[10:35:05] [Server thread/INFO]: My_Mee lost connection: Disconnected
+[10:35:05] [Server thread/INFO]: My_Mee left the game
+[10:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
+[10:39:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8035ms or 160 ticks behind
+[10:41:09] [User Authenticator #4/INFO]: UUID of player My_Mee is c8d3f683-0c45-37f8-ab8f-d3e0dbb280d9
+[10:41:09] [Server thread/INFO]: My_Mee joined the game
+[10:41:09] [Server thread/INFO]: My_Mee[/223.206.233.69:8535] logged in with entity id 5546 at ([world]1275.9743058953964, 6.0, -534.9866376603077)
+[10:41:26] [Async Chat Thread - #0/INFO]: <My_Mee> hellooooo
+[10:41:32] [Async Chat Thread - #0/INFO]: <P0LEM4N> yoyo
+[10:42:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5069ms or 101 ticks behind
+[10:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6856ms or 137 ticks behind
+[10:44:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17239ms or 344 ticks behind
+[10:44:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16848ms or 336 ticks behind
+[10:46:14] [Async Chat Thread - #1/INFO]: <My_Mee> sleep
+[10:46:24] [Async Chat Thread - #1/INFO]: <My_Mee> can u sleep
+[10:46:57] [User Authenticator #5/INFO]: UUID of player Killerz is 1478bffe-57b4-3231-a332-6aec2e2a00ae
+[10:46:58] [Server thread/INFO]: Killerz joined the game
+[10:46:58] [Server thread/INFO]: Killerz[/184.22.126.88:53491] logged in with entity id 7113 at ([world]1351.0878125576523, 63.0, -640.6849149057836)
+[10:47:05] [Server thread/INFO]: Killerz issued server command: /carz
+[10:47:11] [Server thread/INFO]: Killerz issued server command: /carz cmds
+[10:47:19] [Server thread/INFO]: Killerz issued server command: /carz:carz
+[10:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[10:47:25] [Server thread/INFO]: Killerz issued server command: /carz:carzc
+[10:47:38] [Server thread/INFO]: Killerz issued server command: /car
+[10:47:40] [Server thread/INFO]: Killerz issued server command: /carzc
+[10:47:57] [Server thread/INFO]: Killerz issued server command: /carz add
+[10:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17010ms or 340 ticks behind
+[10:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20030ms or 400 ticks behind
+[10:49:09] [Server thread/INFO]: Killerz issued server command: /carz purchase
+[10:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30136ms or 602 ticks behind
+[10:50:37] [User Authenticator #6/INFO]: UUID of player LuvPunPun is 741f03d5-647d-3b0e-820b-62388d06f163
+[10:50:37] [Server thread/INFO]: LuvPunPun joined the game
+[10:50:37] [Server thread/INFO]: LuvPunPun[/223.206.220.190:54349] logged in with entity id 8496 at ([world]1382.2563535561778, 71.0, -740.3905057845612)
+[10:50:56] [Async Chat Thread - #2/INFO]: <My_Mee> I found zombie spawn
+[10:51:11] [Async Chat Thread - #2/INFO]: <Killerz> asd
+[10:51:25] [Async Chat Thread - #2/INFO]: <My_Mee> do we have found it
+[10:51:37] [User Authenticator #6/INFO]: UUID of player xcjtaiz is f2533673-7aed-3b21-8631-dbb4e256e929
+[10:51:37] [Server thread/INFO]: xcjtaiz joined the game
+[10:51:38] [Server thread/INFO]: xcjtaiz[/184.22.95.89:25125] logged in with entity id 9132 at ([world]1353.0271258504667, 62.0, -576.2134584427687)
+[10:51:42] [Server thread/INFO]: There are 5 of a max of 20 players online: P0LEM4N, My_Mee, Killerz, LuvPunPun, xcjtaiz
+[10:51:44] [Server thread/INFO]: There are 5 of a max of 20 players online: P0LEM4N, My_Mee, Killerz, LuvPunPun, xcjtaiz
+[10:51:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[10:52:21] [User Authenticator #6/INFO]: UUID of player meangpu is 4d40c4fe-875c-3dcd-b68b-ee534b92d8f3
+[10:52:23] [Server thread/INFO]: meangpu joined the game
+[10:52:23] [Server thread/INFO]: meangpu[/203.170.166.146:56360] logged in with entity id 9194 at ([world]3378.2737176943283, 60.0, 131.05902892050867)
+[10:53:15] [User Authenticator #6/INFO]: UUID of player JariKaron is 0e30f460-f86e-33c5-8f05-28eaf47cd15e
+[10:53:16] [Server thread/INFO]: JariKaron joined the game
+[10:53:17] [Server thread/INFO]: JariKaron[/202.28.119.58:50853] logged in with entity id 9606 at ([world]1376.9189270956972, 11.0, -318.2712124624621)
+[10:53:20] [Async Chat Thread - #3/INFO]: <My_Mee> LAG
+[10:53:31] [Async Chat Thread - #3/INFO]: <My_Mee> when you guys login
+[10:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 81734ms or 1634 ticks behind
+[10:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 58979ms or 1179 ticks behind
+[10:55:12] [User Authenticator #7/INFO]: UUID of player DeadManWalk2806 is 8c802985-1ab3-36dd-a41c-45700599d740
+[10:55:12] [Server thread/INFO]: DeadManWalk2806 joined the game
+[10:55:12] [Server thread/INFO]: DeadManWalk2806[/49.228.136.99:49921] logged in with entity id 10262 at ([world]1256.7195336602285, 84.0, -552.7448710168087)
+[10:56:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5166ms or 103 ticks behind
+[10:56:20] [Async Chat Thread - #4/INFO]: <My_Mee> 958 44 -537 spider spawn
+[10:56:43] [Async Chat Thread - #4/INFO]: <xcjtaiz> 1345 62 -572
+[10:56:51] [User Authenticator #8/INFO]: UUID of player GunloadSan is ff6b4660-d511-3435-aa45-3a159e766dd8
+[10:56:52] [Server thread/INFO]: GunloadSan joined the game
+[10:56:52] [Server thread/INFO]: GunloadSan[/49.228.169.182:53999] logged in with entity id 11613 at ([world]1424.3948820302917, 64.5, -593.7109897595171)
+[10:57:36] [Server thread/WARN]: meangpu moved wrongly!
+[10:57:44] [Server thread/WARN]: xcjtaiz moved too quickly! -5.318183332226454,-3.132194346170195,10.510487877902392
+[10:57:45] [Server thread/INFO]: xcjtaiz lost connection: Disconnected
+[10:57:45] [Server thread/INFO]: xcjtaiz left the game
+[10:58:28] [Server thread/INFO]: Killerz issued server command: /carz help
+[10:58:32] [Server thread/INFO]: Killerz issued server command: /carz cmds
+[10:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 114552ms or 2291 ticks behind
+[10:58:49] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:58:54] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:58:54] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'carz' in plugin Carz v7.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:802) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2008) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1819) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1772) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1136) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1129) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1203) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1000) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-291]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+Caused by: java.lang.NullPointerException
+	at io.github.a5h73y.carz.utility.ValidationUtils.canPurchaseUpgrade(ValidationUtils.java:168) ~[?:?]
+	at io.github.a5h73y.carz.utility.ValidationUtils.canPurchaseUpgrade(ValidationUtils.java:141) ~[?:?]
+	at io.github.a5h73y.carz.commands.CarzCommands.onCommand(CarzCommands.java:75) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[patched_1.16.4.jar:git-Paper-291]
+	... 19 more
+[10:59:00] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:59:10] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:59:17] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:59:17] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:59:18] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:59:19] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[10:59:20] [Server thread/INFO]: Killerz issued server command: /carz upgrade
+[11:00:05] [Server thread/INFO]: Automatic saving is now disabled
+[11:00:07] [Server thread/INFO]: Saving the game (this may take a moment!)
+[11:00:09] [Server thread/INFO]: Saved the game
+[11:00:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 67987ms or 1359 ticks behind
+[11:00:24] [Server thread/INFO]: Automatic saving is now enabled
+[11:01:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[11:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48402ms or 968 ticks behind
+[11:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77312ms or 1546 ticks behind
+[11:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28609ms or 572 ticks behind
+[11:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[11:06:49] [Server thread/INFO]: Killerz issued server command: /carz add climb
+[11:07:07] [Server thread/INFO]: Killerz issued server command: /carz add climb minecraft:grass_block
+[11:07:16] [Server thread/INFO]: Killerz issued server command: /carz add climb grass_block
+[11:07:37] [Server thread/INFO]: Killerz issued server command: /carz add climb grass_path
+[11:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56066ms or 1121 ticks behind
+[11:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49562ms or 991 ticks behind
+[11:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23047ms or 460 ticks behind
+[11:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5073ms or 101 ticks behind
+[11:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 76253ms or 1525 ticks behind
+[11:14:45] [Server thread/INFO]: LuvPunPun lost connection: Disconnected
+[11:14:45] [Server thread/INFO]: LuvPunPun left the game
+[11:14:46] [User Authenticator #9/INFO]: UUID of player LuvPunPun is 741f03d5-647d-3b0e-820b-62388d06f163
+[11:14:47] [Server thread/INFO]: LuvPunPun joined the game
+[11:14:47] [Server thread/INFO]: LuvPunPun[/223.206.220.190:54431] logged in with entity id 19378 at ([world]554.6137583107262, 72.0, -2230.7601925639365)
+[11:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 94084ms or 1881 ticks behind
+[11:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
+[11:15:58] [User Authenticator #10/INFO]: UUID of player ivrylobs is 5cb8e68b-04f3-36d8-8f67-2b959dcbe813
+[11:15:59] [Server thread/INFO]: ivrylobs joined the game
+[11:15:59] [Server thread/INFO]: ivrylobs[/223.206.235.26:64299] logged in with entity id 20222 at ([world]1452.159828653279, 91.0, -519.9683442415735)
+[11:16:05] [Server thread/INFO]: My_Mee lost connection: Disconnected
+[11:16:05] [Server thread/INFO]: My_Mee left the game
+[11:16:21] [User Authenticator #10/INFO]: UUID of player My_Mee is c8d3f683-0c45-37f8-ab8f-d3e0dbb280d9
+[11:16:22] [Server thread/INFO]: My_Mee joined the game
+[11:16:22] [Server thread/INFO]: My_Mee[/223.206.233.69:10217] logged in with entity id 20323 at ([world]1353.8548992062815, 68.0, -536.8977059210024)
+[11:16:30] [Server thread/INFO]: P0LEM4N lost connection: Disconnected
+[11:16:30] [Server thread/INFO]: P0LEM4N left the game
+[11:17:46] [Server thread/INFO]: Villager EntityVillager['Villager [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮]'/9281, uuid='6c77a6c5-3112-437d-ac76-65880da313f4', l='ServerLevel[world]', x=3416.50, y=67.00, z=88.30, cx=213, cz=5, tl=17638, v=true, d=false] died, message: 'Villager [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮] was slain by Zombie [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮]'
+[11:17:52] [Server thread/INFO]: GunloadSan lost connection: Disconnected
+[11:17:52] [Server thread/INFO]: GunloadSan left the game
+[11:17:56] [Server thread/INFO]: My_Mee lost connection: Disconnected
+[11:17:56] [Server thread/INFO]: My_Mee left the game
+[11:17:59] [Server thread/INFO]: meangpu lost connection: Disconnected
+[11:17:59] [Server thread/INFO]: meangpu left the game
+[11:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 107456ms or 2149 ticks behind
+[11:18:23] [User Authenticator #11/INFO]: UUID of player GunloadSan is ff6b4660-d511-3435-aa45-3a159e766dd8
+[11:18:23] [User Authenticator #11/INFO]: UUID of player P0LEM4N is e816f529-de37-3b48-b909-f98e7b30600d
+[11:18:24] [Server thread/INFO]: GunloadSan joined the game
+[11:18:24] [Server thread/INFO]: GunloadSan[/49.228.169.182:54232] logged in with entity id 20922 at ([world]1422.5040067816756, 63.0, -591.2498975801491)
+[11:18:24] [Server thread/INFO]: P0LEM4N joined the game
+[11:18:25] [Server thread/INFO]: P0LEM4N[/110.170.48.137:57813] logged in with entity id 20923 at ([world]1389.0718431826767, 55.12893365495882, -570.691857399399)
+[11:18:36] [Server thread/INFO]: DeadManWalk2806 lost connection: Disconnected
+[11:18:36] [Server thread/INFO]: DeadManWalk2806 left the game
+[11:18:52] [User Authenticator #11/INFO]: UUID of player meangpu is 4d40c4fe-875c-3dcd-b68b-ee534b92d8f3
+[11:18:55] [Server thread/INFO]: meangpu joined the game
+[11:18:55] [Server thread/INFO]: meangpu[/203.170.166.146:56484] logged in with entity id 21066 at ([world]3372.0773221594723, 60.0, 128.30671517852912)
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.4932124621982439
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.4932124621982439
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.4932124621982439
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.4932124621982439
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.513416521977888
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.513416521977888
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 1.2241717802892254
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 0.9391094509427376
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 0.6578052669473209
+[11:19:30] [Server thread/WARN]: Boat (vehicle of GunloadSan) moved wrongly! 0.3798773898839727
+[11:19:55] [Server thread/INFO]: meangpu lost connection: Disconnected
+[11:19:55] [Server thread/INFO]: meangpu left the game
+[11:19:59] [Server thread/INFO]: P0LEM4N lost connection: Disconnected
+[11:19:59] [Server thread/INFO]: P0LEM4N left the game
+[11:20:07] [User Authenticator #12/INFO]: UUID of player meangpu is 4d40c4fe-875c-3dcd-b68b-ee534b92d8f3
+[11:20:08] [Server thread/INFO]: meangpu joined the game
+[11:20:08] [Server thread/INFO]: meangpu[/203.170.166.146:56511] logged in with entity id 21909 at ([world]3372.0773221594723, 60.0, 128.30671517852912)
+[11:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 94812ms or 1896 ticks behind
+[11:20:55] [User Authenticator #12/INFO]: UUID of player DeadManWalk2806 is 8c802985-1ab3-36dd-a41c-45700599d740
+[11:20:55] [Server thread/INFO]: DeadManWalk2806 joined the game
+[11:20:55] [Server thread/INFO]: DeadManWalk2806[/49.228.136.99:50112] logged in with entity id 22979 at ([world]1257.0675213738073, 84.0, -552.7694740197305)
+[11:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5193ms or 103 ticks behind
+[11:22:01] [Server thread/INFO]: LuvPunPun lost connection: Disconnected
+[11:22:01] [Server thread/INFO]: LuvPunPun left the game
+[11:22:04] [User Authenticator #13/INFO]: UUID of player LuvPunPun is 741f03d5-647d-3b0e-820b-62388d06f163
+[11:22:05] [Server thread/INFO]: LuvPunPun joined the game
+[11:22:05] [Server thread/INFO]: LuvPunPun[/223.206.220.190:54452] logged in with entity id 23803 at ([world]180.12378677815215, 80.0239893432596, -3659.417361074531)
+[11:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 143788ms or 2875 ticks behind
+[11:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49950ms or 999 ticks behind
+[11:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[11:28:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 104088ms or 2081 ticks behind
+[11:28:53] [Server thread/INFO]: Killerz has made the advancement [Ol' Betsy]
+[11:28:53] [Server thread/INFO]: Killerz has completed the challenge [Two Birds, One Arrow]
+[11:29:22] [User Authenticator #14/INFO]: UUID of player xcjtaiz is f2533673-7aed-3b21-8631-dbb4e256e929
+[11:29:23] [Server thread/INFO]: xcjtaiz joined the game
+[11:29:23] [Server thread/INFO]: xcjtaiz[/184.22.95.89:25396] logged in with entity id 26894 at ([world]1349.7085356274215, 63.08307781780647, -608.2258762350865)
+[11:30:04] [Server thread/INFO]: Automatic saving is now disabled
+[11:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 64909ms or 1298 ticks behind
+[11:30:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[11:30:09] [Server thread/INFO]: Saved the game
+[11:30:19] [Server thread/INFO]: Automatic saving is now enabled
+[11:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5198ms or 103 ticks behind
+[11:32:09] [Server thread/INFO]: LuvPunPun lost connection: Disconnected
+[11:32:09] [Server thread/INFO]: LuvPunPun left the game
+[11:32:12] [User Authenticator #15/INFO]: UUID of player LuvPunPun is 741f03d5-647d-3b0e-820b-62388d06f163
+[11:32:13] [Server thread/INFO]: LuvPunPun joined the game
+[11:32:13] [Server thread/INFO]: LuvPunPun[/223.206.220.190:54483] logged in with entity id 28125 at ([world]-27.039080886865953, 72.98488976237348, -4500.516131219611)
+[11:32:27] [Server thread/INFO]: LuvPunPun lost connection: Disconnected
+[11:32:27] [Server thread/INFO]: LuvPunPun left the game
+[11:32:44] [Server thread/WARN]: Killerz moved too quickly! -2.965318881955909,-1.2491870787446828,-11.09028914274029
+[11:32:47] [Server thread/INFO]: xcjtaiz issued server command: /tp luvpunpun xcjtaiz
+[11:32:56] [User Authenticator #15/INFO]: UUID of player LuvPunPun is 741f03d5-647d-3b0e-820b-62388d06f163
+[11:32:58] [Server thread/INFO]: LuvPunPun joined the game
+[11:32:58] [Server thread/INFO]: LuvPunPun[/223.206.220.190:54487] logged in with entity id 28281 at ([world]-57.9481315330725, 70.00199800758887, -4441.841871270474)
+[11:32:59] [Server thread/INFO]: LuvPunPun lost connection: Disconnected
+[11:32:59] [Server thread/INFO]: LuvPunPun left the game
+[11:33:09] [User Authenticator #15/INFO]: UUID of player LuvPunPun is 741f03d5-647d-3b0e-820b-62388d06f163
+[11:33:09] [Server thread/INFO]: LuvPunPun joined the game
+[11:33:09] [Server thread/INFO]: LuvPunPun[/223.206.220.190:54490] logged in with entity id 28337 at ([world]-57.9481315330725, 70.0, -4441.841871270474)
+[11:33:10] [Server thread/INFO]: xcjtaiz issued server command: /tp LuvPunPun xcjtaiz
+[11:33:10] [Server thread/INFO]: [xcjtaiz: Teleported LuvPunPun to xcjtaiz]
+[11:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 108561ms or 2171 ticks behind
+[11:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56582ms or 1131 ticks behind
+[11:34:49] [Server thread/INFO]: DeadManWalk2806 lost connection: Disconnected
+[11:34:50] [Server thread/INFO]: DeadManWalk2806 left the game
+[11:35:31] [Server thread/INFO]: Villager EntityVillager['Villager [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮]'/21709, uuid='22c78035-1096-449e-be6e-b1133438273e', l='ServerLevel[world]', x=3297.87, y=70.00, z=26.26, cx=206, cz=1, tl=25461, v=true, d=false] died, message: 'Villager [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮] was slain by Villager [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮] [▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮]'
+[11:35:56] [Server thread/INFO]: GunloadSan lost connection: Disconnected
+[11:35:56] [Server thread/INFO]: GunloadSan left the game
+[11:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[11:36:58] [Server thread/INFO]: xcjtaiz lost connection: Disconnected
+[11:36:58] [Server thread/INFO]: xcjtaiz left the game
+[11:36:59] [User Authenticator #16/INFO]: UUID of player xcjtaiz is f2533673-7aed-3b21-8631-dbb4e256e929
+[11:36:59] [Server thread/INFO]: xcjtaiz joined the game
+[11:36:59] [Server thread/INFO]: xcjtaiz[/184.22.95.89:25497] logged in with entity id 30825 at ([world]1351.5759740669366, 73.5, -633.5551760718038)
+[11:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39778ms or 795 ticks behind
+[11:38:43] [Server thread/WARN]: Killerz moved too quickly! -7.554970068676084,-0.32758708027056116,-6.563906034504043
+[11:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39170ms or 783 ticks behind
+[11:39:46] [User Authenticator #17/INFO]: UUID of player SUPACHOTe_XD is 0b64005e-b584-39b6-a937-4770f79e976a
+[11:39:46] [Server thread/INFO]: SUPACHOTe_XD joined the game
+[11:39:46] [Server thread/INFO]: SUPACHOTe_XD[/223.206.250.156:53196] logged in with entity id 31442 at ([world]1376.5, 64.0, -742.5)
+[11:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 42077ms or 841 ticks behind
+[11:40:32] [Server thread/INFO]: Killerz issued server command: /carz add climb *
+[11:40:35] [Server thread/INFO]: Killerz issued server command: /carz add climb stone
+[11:40:39] [Server thread/INFO]: Killerz issued server command: /carz add climb sandstone
+[11:41:06] [User Authenticator #18/INFO]: UUID of player MisterLeto11 is 95a8edfe-d1cb-38c9-b61f-323e9275d53a
+[11:41:06] [Server thread/INFO]: MisterLeto11 joined the game
+[11:41:06] [Server thread/INFO]: MisterLeto11[/49.48.119.9:56332] logged in with entity id 32776 at ([world]1357.6763737203153, 63.0, -591.3653819984866)
+[11:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5098ms or 101 ticks behind
+[11:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77620ms or 1552 ticks behind
+[11:43:08] [Server thread/INFO]: SUPACHOTe_XD has made the advancement [Getting an Upgrade]
+[11:43:32] [Server thread/INFO]: JariKaron lost connection: Disconnected
+[11:43:32] [Server thread/INFO]: JariKaron left the game
+[11:43:52] [Server thread/INFO]: SUPACHOTe_XD lost connection: Disconnected
+[11:43:52] [Server thread/INFO]: SUPACHOTe_XD left the game
+[11:44:03] [Server thread/INFO]: xcjtaiz lost connection: Disconnected
+[11:44:03] [Server thread/INFO]: xcjtaiz left the game
+[11:44:04] [User Authenticator #19/INFO]: UUID of player xcjtaiz is f2533673-7aed-3b21-8631-dbb4e256e929
+[11:44:05] [Server thread/INFO]: xcjtaiz joined the game
+[11:44:05] [Server thread/INFO]: xcjtaiz[/184.22.95.89:60938] logged in with entity id 33597 at ([world]1352.712963862473, 63.0, -624.962717385134)
+[11:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 99195ms or 1983 ticks behind
+[11:45:20] [Async Chat Thread - #5/INFO]: <xcjtaiz> some dirt
+[11:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
+[11:46:14] [Server thread/INFO]: LuvPunPun lost connection: Disconnected
+[11:46:14] [Server thread/INFO]: LuvPunPun left the game
+[11:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48669ms or 973 ticks behind
+[11:48:20] [Server thread/INFO]: meangpu lost connection: Disconnected
+[11:48:20] [Server thread/INFO]: meangpu left the game
+[11:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31329ms or 626 ticks behind
+[11:48:53] [Server thread/INFO]: xcjtaiz lost connection: Disconnected
+[11:48:53] [Server thread/INFO]: xcjtaiz left the game
+[11:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21285ms or 425 ticks behind
+[11:49:48] [Server thread/INFO]: Killerz has reached the goal [Hired Help]
+[11:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11037ms or 220 ticks behind
+[11:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
+[11:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10151ms or 203 ticks behind
+[11:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6826ms or 136 ticks behind
+[11:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9395ms or 187 ticks behind
+[11:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10730ms or 214 ticks behind
+[11:56:31] [Server thread/INFO]: Killerz has made the advancement [Country Lode, Take Me Home]
+[11:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[11:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24806ms or 496 ticks behind
+[11:58:14] [Server thread/INFO]: ivrylobs lost connection: Disconnected
+[11:58:14] [Server thread/INFO]: ivrylobs left the game
+[11:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[11:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[12:00:05] [Server thread/INFO]: Automatic saving is now disabled
+[12:00:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:00:07] [Server thread/INFO]: Saved the game
+[12:00:17] [Server thread/INFO]: Automatic saving is now enabled
+[12:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[12:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[12:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8387ms or 167 ticks behind
+[12:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6752ms or 135 ticks behind
+[12:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[12:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14978ms or 299 ticks behind
+[12:08:12] [Server thread/INFO]: MisterLeto11 lost connection: Disconnected
+[12:08:12] [Server thread/INFO]: MisterLeto11 left the game
+[12:08:15] [Server thread/INFO]: Killerz lost connection: Disconnected
+[12:08:15] [Server thread/INFO]: Killerz left the game
+[12:08:23] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS!
+[12:08:34] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:08:37] [Server thread/INFO]: Saved the game
+[12:08:47] [Server thread/INFO]: Stopping the server
+[12:08:47] [Server thread/INFO]: Stopping server
+[12:08:47] [Server thread/INFO]: [SimpleHealthbars2] Disabling SimpleHealthbars2 v0.2.0
+[12:08:47] [Server thread/INFO]: [SimpleHealthbars2] SimpleHealthbars2 disabled.
+[12:08:47] [Server thread/INFO]: [Carz] Disabling Carz v7.0
+[12:08:47] [Server thread/INFO]: [Carz] Disabled Carz v7.0
+[12:08:47] [Server thread/INFO]: [Assassin] Disabling Assassin v1.2.1
+[12:08:47] [Server thread/INFO]: Assassin plugin stopped.
+[12:08:47] [Server thread/INFO]: [Timber] Disabling Timber v1.0.9
+[12:08:47] [Server thread/INFO]: Saving players
+[12:08:47] [Server thread/INFO]: Saving worlds
+[12:08:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:08:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:08:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:08:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:08:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:08:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:08:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:08:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:08:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:08:49] [Server thread/INFO]: Flushing Chunk IO
+[12:08:49] [Server thread/INFO]: Closing Thread Pool
+[12:08:49] [Server thread/INFO]: Closing Server
