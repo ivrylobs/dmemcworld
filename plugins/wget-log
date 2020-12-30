@@ -1,0 +1,6 @@
+--2020-11-30 06:29:29--  https://www.spigotmc.org/resources/placeholderapi.6245/download?version=348709
+Resolving www.spigotmc.org (www.spigotmc.org)... 104.27.196.95, 104.27.195.95, 2606:4700:21::681b:c35f, ...
+Connecting to www.spigotmc.org (www.spigotmc.org)|104.27.196.95|:443... connected.
+HTTP request sent, awaiting response... 503 Service Temporarily Unavailable
+2020-11-30 06:29:29 ERROR 503: Service Temporarily Unavailable.
+
